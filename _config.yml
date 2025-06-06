@@ -22,7 +22,7 @@ title: John's Rambling
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal website, primarily a programming blog, where I write lots
   of information and random tidbits.
-baseurl: ""
+baseurl: "/me"
 url: "https://yourusername.github.io"
 github_username: JoaoSilveira
 linkedin_username: jp-silveira
